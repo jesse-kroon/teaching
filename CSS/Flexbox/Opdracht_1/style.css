@@ -1,0 +1,27 @@
+main {
+  background-color: black;
+  padding-block: 2em;
+}
+
+/* De CSS-regels hieronder dienen niet aangepast te worden */
+img {
+  width: 100%;
+  height: auto;
+}
+
+div {
+  height: 4em;
+  width: 4em;
+}
+
+.red-block {
+  background-color: red;
+}
+
+.yellow-block {
+  background-color: yellow;
+}
+
+.green-block {
+  background-color: green;
+}
