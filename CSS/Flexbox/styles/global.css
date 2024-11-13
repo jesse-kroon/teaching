@@ -1,9 +1,22 @@
+@import url(./fonts.css);
+body {
+  font-family: "Outfit";
+}
+
 main {
   background-color: black;
   padding-block: 2em;
 }
 
-/* De CSS-regels hieronder dienen niet aangepast te worden */
+a {
+  text-decoration: none;
+}
+
+nav {
+  display: flex;
+  gap: 1em;
+}
+
 img {
   width: 100%;
   height: auto;
